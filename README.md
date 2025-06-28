@@ -1,8 +1,3 @@
-# Sure! Here's a **simple, clean, and short `README.md`** — ideal for GitHub without extra clutter, but still includes **technologies used, setup steps, and purpose**:
-
----
-
-### 📄 Simple `README.md`
 
 ```markdown
 # 🔍 Subrogation Recovery Agent
