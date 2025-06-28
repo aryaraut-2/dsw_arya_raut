@@ -1,0 +1,46 @@
+XYZ Insurance Co.
+Legal Recovery Department
+123 Insurance Ave, Mumbai, MH - 400001
+Phone: +91-22-12345678 | Email: legal@xyzinsurance.com
+
+Date: [Auto-Generated]
+
+To,
+Claims Department
+[Third Party Insurer Name]
+
+Subject: Subrogation Demand Letter – Claim Number: CLM-2024-0751
+
+Dear Sir/Madam,
+
+We are writing on behalf of our insured:
+- Name: Mr. Rahul Mehta
+- Policy Number: AB123456789
+- Claim Number: CLM-2024-0751
+- Date of Loss: March 12, 2024
+- Location: Pune
+- Third Party Driver: Mr. Sharma
+
+**Incident Summary:**
+On the above-mentioned date, our insured’s vehicle was involved in a road accident caused by the third party. Liability lies with the third party based on police findings and eyewitness statements.
+
+**Claim Payment Details:**
+- Amount Paid: ₹75,000
+- Mode of Payment: NEFT to insured
+
+**Legal Basis for Subrogation:**
+- Clear third-party negligence
+- Subrogation rights under Policy AB123456789
+- Supported by evidence: police report, photographs, statements
+
+**We Demand:**
+- Reimbursement of ₹75,000 within 15 calendar days of this notice.
+
+Enclosures:
+- Police Report
+- Repair Invoice
+- Proof of Payment
+
+Sincerely,  
+Legal Recovery Officer  
+XYZ Insurance Co.
